@@ -105,7 +105,7 @@ The **`console.log()`** function can take multiple parameters separated by comma
 
 ```js
 console.log('Hello', 'World', '!')
-console.log('HAPPY', 'NEW', 'YEAR', 2020)
+console.log('HAPPY', 'NEW', 'YEAR', 2023)
 ```
 
 As you can see from the snippet code above, _`console.log()`_ can take multiple arguments.
